@@ -1,0 +1,159 @@
+{"level":"error","message":"could not getE","timestamp":"2020-07-04T18:38:37.882Z"}
+{"level":"error","message":"could not getE","timestamp":"2020-07-04T19:40:20.500Z"}
+{"message":"error","stack":"Error: uncought\n    at Object.<anonymous> (C:\\Users\\Rawfur\\Desktop\\projectkm\\index.js:41:7)\n    at Module._compile (internal/modules/cjs/loader.js:1138:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1158:10)\n    at Module.load (internal/modules/cjs/loader.js:986:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:879:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:71:12)\n    at internal/main/run_main_module.js:17:47","level":"error","timestamp":"2020-07-04T19:49:15.613Z"}
+{"level":"error","message":"uncought","timestamp":"2020-07-04T19:53:31.331Z"}
+{"level":"error","message":"could not getE","timestamp":"2020-07-05T11:26:12.922Z"}
+{"level":"error","message":"could not getE","timestamp":"2020-07-05T11:27:42.310Z"}
+{"level":"error","message":"could not getE","timestamp":"2020-07-05T11:28:56.695Z"}
+{"level":"error","message":"could not getE","timestamp":"2020-07-05T11:29:30.346Z"}
+{"level":"error","message":"could not getE","timestamp":"2020-07-05T11:30:08.699Z"}
+{"level":"info","message":"start server 3001","timestamp":"2020-07-05T11:49:49.493Z"}
+{"level":"info","message":"successfull","timestamp":"2020-07-05T11:49:51.561Z"}
+{"level":"error","message":"Unexpected identifier","timestamp":"2020-07-06T10:46:44.614Z"}
+{"level":"error","message":"Unexpected identifier","timestamp":"2020-07-06T10:47:24.935Z"}
+{"level":"info","message":"start server 3001","timestamp":"2020-07-06T10:48:28.394Z"}
+{"level":"info","message":"successfull","timestamp":"2020-07-06T10:48:30.592Z"}
+{"level":"error","message":"await is only valid in async function","timestamp":"2020-07-06T10:48:44.216Z"}
+{"level":"info","message":"start server 3001","timestamp":"2020-07-06T10:49:40.500Z"}
+{"level":"info","message":"successfull","timestamp":"2020-07-06T10:49:42.565Z"}
+{"level":"error","message":"Joi is not defined","timestamp":"2020-07-06T10:53:05.549Z"}
+{"level":"info","message":"start server 3001","timestamp":"2020-07-06T10:53:34.851Z"}
+{"level":"info","message":"successfull","timestamp":"2020-07-06T10:53:36.926Z"}
+{"level":"error","message":"moment is not defined","timestamp":"2020-07-06T10:55:21.117Z"}
+{"level":"info","message":"start server 3001","timestamp":"2020-07-06T10:57:10.523Z"}
+{"level":"info","message":"successfull","timestamp":"2020-07-06T10:57:12.572Z"}
+{"level":"error","message":"rental.customer.findById is not a function","timestamp":"2020-07-06T10:57:18.001Z"}
+{"level":"error","message":"rental.customer.findById is not a function","timestamp":"2020-07-06T10:57:49.036Z"}
+{"level":"info","message":"start server 3001","timestamp":"2020-07-06T10:58:21.073Z"}
+{"level":"info","message":"successfull","timestamp":"2020-07-06T10:58:23.116Z"}
+{"level":"info","message":"start server 3001","timestamp":"2020-07-06T11:02:44.751Z"}
+{"level":"info","message":"successfull","timestamp":"2020-07-06T11:02:46.809Z"}
+{"level":"info","message":"start server 3001","timestamp":"2020-07-06T11:06:17.697Z"}
+{"level":"info","message":"successfull","timestamp":"2020-07-06T11:06:19.753Z"}
+{"level":"info","message":"start server 3001","timestamp":"2020-07-06T11:07:06.197Z"}
+{"level":"info","message":"successfull","timestamp":"2020-07-06T11:07:08.250Z"}
+{"level":"error","message":"rental is not defined","timestamp":"2020-07-06T11:07:41.841Z"}
+{"level":"info","message":"start server 3001","timestamp":"2020-07-06T11:09:21.918Z"}
+{"level":"info","message":"successfull","timestamp":"2020-07-06T11:09:23.975Z"}
+{"level":"error","message":"moment is not defined","timestamp":"2020-07-06T11:09:38.150Z"}
+{"level":"error","message":"Cannot find module 'moment'\nRequire stack:\n- C:\\Users\\Rawfur\\Desktop\\projectkm\\route\\return.js\n- C:\\Users\\Rawfur\\Desktop\\projectkm\\startup\\routes.js\n- C:\\Users\\Rawfur\\Desktop\\projectkm\\index.js","timestamp":"2020-07-06T11:14:08.696Z"}
+{"level":"info","message":"start server 3001","timestamp":"2020-07-06T11:15:49.655Z"}
+{"level":"info","message":"successfull","timestamp":"2020-07-06T11:15:51.782Z"}
+{"level":"error","message":"Cast to date failed for value \"[Function: now]\" at path \"dateReturn\"","timestamp":"2020-07-06T11:15:55.500Z"}
+{"level":"info","message":"start server 3001","timestamp":"2020-07-06T11:18:11.557Z"}
+{"level":"info","message":"successfull","timestamp":"2020-07-06T11:18:13.630Z"}
+{"level":"info","message":"start server 3001","timestamp":"2020-07-06T11:19:44.924Z"}
+{"level":"info","message":"successfull","timestamp":"2020-07-06T11:19:47.000Z"}
+{"level":"error","message":"Cannot set headers after they are sent to the client","timestamp":"2020-07-06T11:22:32.128Z"}
+{"level":"info","message":"start server 3001","timestamp":"2020-07-06T11:27:37.219Z"}
+{"level":"info","message":"successfull","timestamp":"2020-07-06T11:27:39.288Z"}
+{"level":"info","message":"start server 3001","timestamp":"2020-07-06T11:29:21.474Z"}
+{"level":"info","message":"successfull","timestamp":"2020-07-06T11:29:23.556Z"}
+{"level":"error","message":"fee is not defined","timestamp":"2020-07-06T11:29:24.595Z"}
+{"level":"error","message":"fee is not defined","timestamp":"2020-07-06T11:29:57.195Z"}
+{"level":"info","message":"start server 3001","timestamp":"2020-07-06T11:30:15.888Z"}
+{"level":"info","message":"successfull","timestamp":"2020-07-06T11:30:17.959Z"}
+{"level":"info","message":"start server 3001","timestamp":"2020-07-06T11:30:52.424Z"}
+{"level":"info","message":"successfull","timestamp":"2020-07-06T11:30:54.476Z"}
+{"level":"info","message":"start server 3001","timestamp":"2020-07-06T11:31:54.819Z"}
+{"level":"info","message":"successfull","timestamp":"2020-07-06T11:31:56.885Z"}
+{"level":"info","message":"start server 3001","timestamp":"2020-07-06T11:32:19.439Z"}
+{"level":"info","message":"successfull","timestamp":"2020-07-06T11:32:21.504Z"}
+{"level":"info","message":"start server 3001","timestamp":"2020-07-06T11:33:05.626Z"}
+{"level":"info","message":"successfull","timestamp":"2020-07-06T11:33:07.671Z"}
+{"level":"info","message":"start server 3001","timestamp":"2020-07-06T11:36:02.676Z"}
+{"level":"info","message":"successfull","timestamp":"2020-07-06T11:36:04.732Z"}
+{"level":"info","message":"start server 3001","timestamp":"2020-07-06T11:37:43.970Z"}
+{"level":"info","message":"successfull","timestamp":"2020-07-06T11:37:46.049Z"}
+{"level":"info","message":"start server 3001","timestamp":"2020-07-06T11:40:52.103Z"}
+{"level":"info","message":"successfull","timestamp":"2020-07-06T11:40:54.174Z"}
+{"level":"info","message":"start server 3001","timestamp":"2020-07-06T11:44:32.069Z"}
+{"level":"info","message":"successfull","timestamp":"2020-07-06T11:44:34.139Z"}
+{"level":"info","message":"start server 3001","timestamp":"2020-07-06T11:46:49.979Z"}
+{"level":"info","message":"successfull","timestamp":"2020-07-06T11:46:52.044Z"}
+{"level":"error","message":"rental validation failed: movie.numberInstock: Path `numberInstock` is required., movie.jhonra: Path `jhonra` is required., movie: Validation failed: numberInstock: Path `numberInstock` is required., jhonra: Path `jhonra` is required.","timestamp":"2020-07-06T11:47:20.652Z"}
+{"level":"error","message":"Identifier 'result' has already been declared","timestamp":"2020-07-06T11:53:49.185Z"}
+{"level":"info","message":"start server 3001","timestamp":"2020-07-06T11:54:05.653Z"}
+{"level":"info","message":"successfull","timestamp":"2020-07-06T11:54:07.773Z"}
+{"level":"error","message":"rental validation failed: movie.numberInstock: Path `numberInstock` is required., movie.jhonra: Path `jhonra` is required., movie: Validation failed: numberInstock: Path `numberInstock` is required., jhonra: Path `jhonra` is required.","timestamp":"2020-07-06T11:54:18.596Z"}
+{"level":"error","message":"rental validation failed: movie.numberInstock: Path `numberInstock` is required., movie.jhonra: Path `jhonra` is required., movie: Validation failed: numberInstock: Path `numberInstock` is required., jhonra: Path `jhonra` is required.","timestamp":"2020-07-06T11:54:21.350Z"}
+{"level":"info","message":"start server 3001","timestamp":"2020-07-06T11:55:53.184Z"}
+{"level":"info","message":"successfull","timestamp":"2020-07-06T11:55:55.253Z"}
+{"level":"info","message":"start server 3001","timestamp":"2020-07-06T11:58:09.292Z"}
+{"level":"info","message":"successfull","timestamp":"2020-07-06T11:58:11.359Z"}
+{"level":"error","message":"rental.updateMany is not a function","timestamp":"2020-07-06T11:58:39.811Z"}
+{"level":"info","message":"start server 3001","timestamp":"2020-07-06T11:59:17.896Z"}
+{"level":"info","message":"successfull","timestamp":"2020-07-06T11:59:19.977Z"}
+{"level":"error","message":"rental.updateMany is not a function","timestamp":"2020-07-06T11:59:21.129Z"}
+{"level":"error","message":"missing ) after argument list","timestamp":"2020-07-06T12:01:35.478Z"}
+{"level":"error","message":"missing ) after argument list","timestamp":"2020-07-06T12:02:15.875Z"}
+{"level":"info","message":"start server 3001","timestamp":"2020-07-06T12:02:32.604Z"}
+{"level":"info","message":"successfull","timestamp":"2020-07-06T12:02:34.676Z"}
+{"level":"info","message":"start server 3001","timestamp":"2020-07-06T12:36:57.351Z"}
+{"level":"info","message":"successfull","timestamp":"2020-07-06T12:36:59.424Z"}
+{"level":"error","message":"rental validation failed: movie.numberInstock: Path `numberInstock` is required., movie.jhonra: Path `jhonra` is required., movie: Validation failed: numberInstock: Path `numberInstock` is required., jhonra: Path `jhonra` is required.","timestamp":"2020-07-06T12:37:06.479Z"}
+{"level":"info","message":"start server 3001","timestamp":"2020-07-06T12:48:29.852Z"}
+{"level":"info","message":"successfull","timestamp":"2020-07-06T12:48:31.920Z"}
+{"level":"error","message":"rental validation failed: movie.numberInstock: Path `numberInstock` is required., movie.jhonra: Path `jhonra` is required., movie: Validation failed: numberInstock: Path `numberInstock` is required., jhonra: Path `jhonra` is required.","timestamp":"2020-07-06T12:51:12.340Z"}
+{"level":"error","message":"Cannot find module '../models/movie'\nRequire stack:\n- C:\\Users\\Rawfur\\Desktop\\projectkm\\route\\return.js\n- C:\\Users\\Rawfur\\Desktop\\projectkm\\startup\\routes.js\n- C:\\Users\\Rawfur\\Desktop\\projectkm\\index.js","timestamp":"2020-07-06T12:56:17.628Z"}
+{"level":"info","message":"start server 3001","timestamp":"2020-07-06T12:56:47.923Z"}
+{"level":"info","message":"successfull","timestamp":"2020-07-06T12:56:50.037Z"}
+{"level":"error","message":"rental validation failed: movie.numberInstock: Path `numberInstock` is required., movie.jhonra: Path `jhonra` is required., movie: Validation failed: numberInstock: Path `numberInstock` is required., jhonra: Path `jhonra` is required.","timestamp":"2020-07-06T12:56:57.440Z"}
+{"level":"info","message":"start server 3001","timestamp":"2020-07-06T13:00:37.481Z"}
+{"level":"info","message":"successfull","timestamp":"2020-07-06T13:00:39.531Z"}
+{"level":"error","message":"rental validation failed: movie.numberInstock: Path `numberInstock` is required., movie.jhonra: Path `jhonra` is required., movie: Validation failed: numberInstock: Path `numberInstock` is required., jhonra: Path `jhonra` is required.","timestamp":"2020-07-06T13:00:41.308Z"}
+{"level":"error","message":"Unexpected token '.'","timestamp":"2020-07-06T13:14:08.875Z"}
+{"level":"info","message":"start server 3001","timestamp":"2020-07-06T13:15:33.452Z"}
+{"level":"info","message":"successfull","timestamp":"2020-07-06T13:15:35.517Z"}
+{"level":"info","message":"start server 3001","timestamp":"2020-07-06T13:19:52.763Z"}
+{"level":"info","message":"successfull","timestamp":"2020-07-06T13:19:54.830Z"}
+{"level":"info","message":"start server 3001","timestamp":"2020-07-06T13:21:59.785Z"}
+{"level":"info","message":"successfull","timestamp":"2020-07-06T13:22:01.855Z"}
+{"level":"info","message":"start server 3001","timestamp":"2020-07-06T14:11:43.634Z"}
+{"level":"info","message":"successfull","timestamp":"2020-07-06T14:11:45.717Z"}
+{"level":"error","message":"movie is not defined","timestamp":"2020-07-06T14:13:43.726Z"}
+{"level":"info","message":"start server 3001","timestamp":"2020-07-06T14:15:08.823Z"}
+{"level":"info","message":"successfull","timestamp":"2020-07-06T14:15:10.891Z"}
+{"level":"info","message":"start server 3001","timestamp":"2020-07-06T14:16:08.369Z"}
+{"level":"info","message":"successfull","timestamp":"2020-07-06T14:16:10.435Z"}
+{"level":"info","message":"start server 3001","timestamp":"2020-07-06T14:19:17.367Z"}
+{"level":"info","message":"successfull","timestamp":"2020-07-06T14:19:19.436Z"}
+{"level":"info","message":"start server 3001","timestamp":"2020-07-06T14:24:11.985Z"}
+{"level":"info","message":"successfull","timestamp":"2020-07-06T14:24:14.047Z"}
+{"level":"info","message":"start server 3001","timestamp":"2020-07-06T14:25:02.157Z"}
+{"level":"info","message":"successfull","timestamp":"2020-07-06T14:25:04.230Z"}
+{"level":"info","message":"start server 3001","timestamp":"2020-07-06T14:26:25.991Z"}
+{"level":"info","message":"successfull","timestamp":"2020-07-06T14:26:28.045Z"}
+{"level":"error","message":"customer is not defined","timestamp":"2020-07-06T14:27:41.305Z"}
+{"level":"error","message":"customer is not defined","timestamp":"2020-07-06T14:29:33.194Z"}
+{"level":"error","message":"customer is not defined","timestamp":"2020-07-06T14:31:07.228Z"}
+{"level":"error","message":"customer is not defined","timestamp":"2020-07-06T14:31:29.999Z"}
+{"level":"info","message":"start server 3001","timestamp":"2020-07-06T14:32:18.887Z"}
+{"level":"info","message":"successfull","timestamp":"2020-07-06T14:32:20.959Z"}
+{"level":"error","message":"customer is not defined","timestamp":"2020-07-06T14:34:31.869Z"}
+{"level":"info","message":"start server 3001","timestamp":"2020-07-06T14:36:34.939Z"}
+{"level":"info","message":"successfull","timestamp":"2020-07-06T14:36:37.011Z"}
+{"level":"info","message":"start server 3001","timestamp":"2020-07-06T14:39:34.735Z"}
+{"level":"info","message":"successfull","timestamp":"2020-07-06T14:39:36.846Z"}
+{"level":"error","message":"Cannot read property 'dailyRentalRate' of undefined","timestamp":"2020-07-06T14:39:37.524Z"}
+{"level":"info","message":"start server 3001","timestamp":"2020-07-06T14:42:11.147Z"}
+{"level":"info","message":"successfull","timestamp":"2020-07-06T14:42:13.222Z"}
+{"level":"error","message":"Cannot read property 'dailyRentalRate' of undefined","timestamp":"2020-07-06T14:42:15.095Z"}
+{"level":"info","message":"start server 3001","timestamp":"2020-07-06T14:43:17.741Z"}
+{"level":"info","message":"successfull","timestamp":"2020-07-06T14:43:19.810Z"}
+{"level":"info","message":"start server 3001","timestamp":"2020-07-06T14:53:43.750Z"}
+{"level":"info","message":"successfull","timestamp":"2020-07-06T14:53:45.806Z"}
+{"level":"error","message":"Unexpected token ')'","timestamp":"2020-07-06T14:56:01.967Z"}
+{"level":"info","message":"start server 3001","timestamp":"2020-07-06T14:56:21.446Z"}
+{"level":"info","message":"successfull","timestamp":"2020-07-06T14:56:23.516Z"}
+{"level":"info","message":"start server 3001","timestamp":"2020-07-06T15:04:22.743Z"}
+{"level":"info","message":"successfull","timestamp":"2020-07-06T15:04:24.816Z"}
+{"level":"error","message":"Cannot set headers after they are sent to the client","timestamp":"2020-07-06T15:05:10.650Z"}
+{"level":"info","message":"start server 3001","timestamp":"2020-07-06T15:09:27.921Z"}
+{"level":"info","message":"successfull","timestamp":"2020-07-06T15:09:29.993Z"}
+{"level":"info","message":"start server 3001","timestamp":"2020-07-06T15:09:38.749Z"}
+{"level":"info","message":"successfull","timestamp":"2020-07-06T15:09:40.820Z"}
+{"level":"info","message":"start server 3001","timestamp":"2020-07-06T15:09:56.197Z"}
+{"level":"info","message":"successfull","timestamp":"2020-07-06T15:09:58.268Z"}
+{"level":"info","message":"start server 3001","timestamp":"2020-07-06T15:10:09.411Z"}
+{"level":"info","message":"successfull","timestamp":"2020-07-06T15:10:11.488Z"}
